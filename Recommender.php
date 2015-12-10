@@ -1,5 +1,7 @@
 <?php
 
+namespace Sh4ka\RecommenderBundle;
+
 /**
  * This class contains a collection of
  * useful methods for basic recommendations based
